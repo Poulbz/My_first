@@ -21,6 +21,6 @@ public class HelloWorld
 		
 		System.out.println(a.i);
 		
-		System.out.println("zhe ci lai ge da de ");
+		System.out.println("zhe ci lai ge da de ");///adadasda
 	}
 }
